@@ -16,7 +16,7 @@
   <description>Logic.</description>
 
   <build>
-    <finalName>${project.artifactId}</finalName>
+    <finalName>devops-cicd-app</finalName>
   </build>
 
   <dependencies>
