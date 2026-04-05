@@ -218,12 +218,12 @@
     </dependencies>
   </dependencyManagement>
 
-  <scm>
-    <connection>scm:git:git@github.com:jleetutorial/maven-project.git</connection>
-    <developerConnection>scm:git:git@github.com:jleetutorial/maven-project.git</developerConnection>
+<scm>
+    <connection>scm:git:git@github.com:Hi-Lalit/jenkins-java-cicd-aws.git</connection>
+    <developerConnection>scm:git:git@github.com:Hi-Lalit/jenkins-java-cicd-aws.git</developerConnection>
     <tag>HEAD</tag>
-    <url>http://github.com/jleetutorial/maven-project</url>
-  </scm>
+    <url>https://github.com/Hi-Lalit/jenkins-java-cicd-aws.git</url>
+</scm>
 
   <prerequisites>
     <maven>3.0.3</maven>
