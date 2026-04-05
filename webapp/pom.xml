@@ -16,7 +16,7 @@
   <description>Webapp.</description>
 
   <build>
-    <finalName>${project.artifactId}</finalName>
+    <finalName>devops-cicd-app</finalName>
 
     <plugins>
       <plugin>
